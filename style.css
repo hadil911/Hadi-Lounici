@@ -1,11 +1,18 @@
-<style>
-.jumbotron {
-
+body {
     text-align: center;
 }
+.lines {
+    font-family: monospace;
+    font-style: italic;
+}
+.display-4 {
+    font-weight: 600;
+    font-family: monospace;
+    font-style: initial;
+}
+.suit-pic {
+ 
+    width: 200px;
+   
 
-
-
-
-
-</style>
+}
