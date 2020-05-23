@@ -12,14 +12,19 @@ body {
     font-family: monospace;
     font-style: initial;
 }
-.suit-pic {
+.my-pic {
  
     width: 250px;
     position: relative;
   height: 200;
   size: inherit;
-   
+   }
 
+
+.list{
+    font-family: sans-serif;
+    font-style: italic;
+    color: slategrey;
 }
 
 .item1 { grid-area: header; }
